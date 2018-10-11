@@ -1,2 +1,2 @@
 # warsztat
-Warsztat z html
+Warsztat z HTML i JavaScript
